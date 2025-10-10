@@ -1,0 +1,5 @@
+body {background-image: url(ocean.jpg); background-repeat: no-repeat; background-size: cover; margin: 20px;}
+#mypic {width: 600px;}
+#jelly {width: 600px;}
+p {background-color: lightcyan; padding: 10px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; color: darkblue;}
+p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
