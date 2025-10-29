@@ -1,0 +1,21 @@
+body {background-image: url(ocean.jpg); background-repeat: no-repeat; background-size: cover; margin: 20px;}
+#mypic {width: 400px;}
+#jelly {width: 400px;}
+#dory {width: 300px;}
+#star {width: 250px;}
+p {background-color: lightcyan; padding: 10px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; color: darkblue;}
+p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+#output {
+  background-color: rgba(173, 216, 230, 0.8); 
+  color: darkblue; 
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  max-width: 700px;}
+  
+#output h1, #output h2 
+{color: navy}
+
